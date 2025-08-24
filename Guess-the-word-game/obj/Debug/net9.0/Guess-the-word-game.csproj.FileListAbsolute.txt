@@ -1,0 +1,14 @@
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\bin\Debug\net9.0\Guess-the-word-game.exe
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\bin\Debug\net9.0\Guess-the-word-game.deps.json
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\bin\Debug\net9.0\Guess-the-word-game.runtimeconfig.json
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\bin\Debug\net9.0\Guess-the-word-game.dll
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\bin\Debug\net9.0\Guess-the-word-game.pdb
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\obj\Debug\net9.0\Guess-the-word-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\obj\Debug\net9.0\Guess-the-word-game.AssemblyInfoInputs.cache
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\obj\Debug\net9.0\Guess-the-word-game.AssemblyInfo.cs
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\obj\Debug\net9.0\Guess-the-word-game.csproj.CoreCompileInputs.cache
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\obj\Debug\net9.0\Guess-the-word-game.dll
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\obj\Debug\net9.0\refint\Guess-the-word-game.dll
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\obj\Debug\net9.0\Guess-the-word-game.pdb
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\obj\Debug\net9.0\Guess-the-word-game.genruntimeconfig.cache
+C:\Users\tyash\Desktop\Guess-the-word-game\Guess-the-word-game\obj\Debug\net9.0\ref\Guess-the-word-game.dll
